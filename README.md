@@ -15,4 +15,4 @@ This document explains about the challenging technical problem I encountered whi
 
 **Future Enhancement:** I have a plan to install RAG (Retrieval-Augmented Generation) as the next step that will allow the agent to search through the entire inbox; implement multi-turn conversation memory with semantic search; and add structured output schemas for all AI responses so as to do away with parsing errors and enable more complicated agentic workflows such as automated email threading and intelligent priority ​‍​‌‍​‍‌​‍​‌‍​‍‌scoring.
 
-CerebroMail RepoLink:[https://github.com/lalitaditya04/CerebroMail](https://github.com/lalitaditya04/CerebroMail)
+CerebroMail RepoLink: [https://github.com/lalitaditya04/CerebroMail](https://github.com/lalitaditya04/CerebroMail)

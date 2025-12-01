@@ -1,4 +1,4 @@
-# ChallenginProblem
+# Challenging Problem
 This document explains about the challenging technical problem I encountered while building CerebroMail and how I solved it.
 
 **The Challenge**: The most challenging problem I faced was building an agentic AI system that could maintain contextual awareness across multiple email interactions while performing tasks like categorization, action extraction, draft generation, and conversational chat—all without losing the thread of what each email was about or mixing context between different emails.
